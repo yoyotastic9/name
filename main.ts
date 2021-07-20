@@ -8,7 +8,7 @@ input.onButtonPressed(Button.A, function () {
         `)
 })
 input.onButtonPressed(Button.AB, function () {
-    basic.showString("secret enabled codex vfreevpoqimasgj www.mjmerch.com")
+    basic.showString("secret enabled codex vfreevmvjvreport www.mjmerch.com")
 })
 input.onButtonPressed(Button.B, function () {
     basic.showLeds(`
